@@ -1,7 +1,1 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhpooladi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 400px; height: 180px;" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhpooladi&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 400px; height: 180px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhpooladi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 400px; height: 180px;" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amirhpooladi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Amir's GitHub Stats" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhpooladi&theme=dark&hide_border=false" alt="Amir's GitHub Streak" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhpooladi&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="60%" /> </div>
