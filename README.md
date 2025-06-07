@@ -1,8 +1,4 @@
 # 📊 GitHub Stats:
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhpooladi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 400px; height: auto;" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhpooladi&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 400px; height: auto;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhpooladi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 400px; height: auto;" />
-</div>
+![amirhpooladi's Stats](https://github-readme-stats.vercel.app/api?username=amirhpooladi&theme=react&show_icons=true&hide_border=true&count_private=true)
+![amirhpooladi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirhpooladi&theme=react&hide_border=true)
+![amirhpooladi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhpooladi&theme=react&show_icons=true&hide_border=true&layout=compact)
